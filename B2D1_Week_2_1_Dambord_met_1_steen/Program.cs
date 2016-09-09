@@ -16,7 +16,7 @@ namespace B2D1_Week_2_1_Dambord_met_1_steen
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new DambordDemoForm());
         }
     }
 }
